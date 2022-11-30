@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React.js et Node.js
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me : nzilax@gmail.com/00212605545625
+- 🔎 looking for a new job or freelance assignment
 
 <!---
 GodNZILA/GodNZILA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
